@@ -80,6 +80,7 @@ public class WindowAuthPopupTest {
 			if(downloadedFile.delete())
 			{
 				System.out.println(" >> File has been deleted successfully");
+				System.out.println(" >> You have reached the limit of conversion");
 			}
 		}
 		Thread.sleep(2000);
