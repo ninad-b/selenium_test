@@ -1,0 +1,13 @@
+[
+	{
+		"email" : "ninad@testmail.com",
+		"password" : "Tester@123"
+	},
+	{
+		"email" : "testninad@testmail.com",
+		"password" : "Tester@123"
+	},
+	{	
+		"product" : "ZARA COAT 3"
+	}
+]
